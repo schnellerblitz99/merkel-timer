@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/merkel-timer/static/css/main.c960cd9a.chunk.css",
+    "main.js": "/merkel-timer/static/js/main.8063330d.chunk.js",
+    "main.js.map": "/merkel-timer/static/js/main.8063330d.chunk.js.map",
+    "runtime-main.js": "/merkel-timer/static/js/runtime-main.9788d8a3.js",
+    "runtime-main.js.map": "/merkel-timer/static/js/runtime-main.9788d8a3.js.map",
+    "static/js/2.a880ff9c.chunk.js": "/merkel-timer/static/js/2.a880ff9c.chunk.js",
+    "static/js/2.a880ff9c.chunk.js.map": "/merkel-timer/static/js/2.a880ff9c.chunk.js.map",
+    "static/js/3.142c3caa.chunk.js": "/merkel-timer/static/js/3.142c3caa.chunk.js",
+    "static/js/3.142c3caa.chunk.js.map": "/merkel-timer/static/js/3.142c3caa.chunk.js.map",
+    "index.html": "/merkel-timer/index.html",
+    "static/css/main.c960cd9a.chunk.css.map": "/merkel-timer/static/css/main.c960cd9a.chunk.css.map",
+    "static/js/2.a880ff9c.chunk.js.LICENSE.txt": "/merkel-timer/static/js/2.a880ff9c.chunk.js.LICENSE.txt",
+    "static/media/gong.d1f02519.mp3": "/merkel-timer/static/media/gong.d1f02519.mp3",
+    "static/media/luefter1.c5f16653.png": "/merkel-timer/static/media/luefter1.c5f16653.png",
+    "static/media/merkel.a432aca9.mp3": "/merkel-timer/static/media/merkel.a432aca9.mp3",
+    "static/media/merkel3.e1bbb272.png": "/merkel-timer/static/media/merkel3.e1bbb272.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9788d8a3.js",
+    "static/js/2.a880ff9c.chunk.js",
+    "static/css/main.c960cd9a.chunk.css",
+    "static/js/main.8063330d.chunk.js"
+  ]
+}
